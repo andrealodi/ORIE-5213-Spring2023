@@ -1,0 +1,3 @@
+
+    Cap.pck: this is a dictionary with capacities, i.e., for each school id, it returns the number of vacancies. For example, cap[id_c] returns the capacity of school with id = id_c.
+    Pref.pck: this is a dictionary with two sets of keys that return the preferences of students and also the priorities at schools. For example, pref[id_s][p] returns the p-th preference of student id_s. Similarly, pref[id_c][p] returns the id of the student with the p-th priority in school id_c.
